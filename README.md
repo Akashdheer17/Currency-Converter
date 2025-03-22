@@ -6,7 +6,8 @@ This is a web application that allows users to convert between different currenc
 - HTML
 - CSS
 - JavaScript
-- Currency API (`@fawazahmed0/currency-api`)
+- DOM Manipulation
+- API:- Currency API (`@fawazahmed0/currency-api`)
 
 ## 🚀 Features:
 ✅ Convert between multiple currencies  
