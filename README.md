@@ -23,7 +23,7 @@ This is a web application that allows users to convert between different currenc
 
 
 ## 🔗 Live Demo:
-[Live Project Link](#) *(If deployed on GitHub Pages or another platform)*
+https://akashdheer17.github.io/Currency-Converter/
 
 ## 📜 License:
 MIT
